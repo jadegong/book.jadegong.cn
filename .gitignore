@@ -1,0 +1,10 @@
+node_modules/*
+public/*
+db.json
+debug.log
+nohup.out
+npm-debug.log
+.idea/*
+package-lock.json
+book.jadegong.cn/*
+book.jadegong.cn.*
